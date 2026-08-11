@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rathio12 👋</h1>
+<h1 align="center">Hi there, I'm neon (or Rey) 👋</h1>
 
 <p align="center">
   Self-taught developer building high-performance tooling and full-stack applications.
