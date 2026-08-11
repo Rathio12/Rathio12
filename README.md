@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm Rathio12 👋</h1>
 
 <p align="center">
-  Self-taught developer, coding for a few years now.
+  Self-taught developer building high-performance tooling and full-stack applications.
 </p>
 
 ---
 
-- 🔭 Currently building at [luwan.io](https://luwan.io)
-- 👯 Open for new opportunities
+- 🔭 Currently scaling and building out features at [luwan.io](https://luwan.io)
+- 🛠️ Experienced in crafting desktop utilities, game addons, and modern web infrastructure
+- 👯 Open for new projects and exciting opportunities
 - 📫 Reach me on Discord: **neon.real**
 
 ---
