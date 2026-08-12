@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  🔗 <a href="[My Website](https://neeon-website.vercel.app/)">Placeholder Text</a>
+  🔗 <a href="https://neeon-website.vercel.app/">My Website</a>
 </p>
