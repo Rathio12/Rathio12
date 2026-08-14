@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm neon (or Rey) 👋</h1>
-
 <p align="center">
   Self-taught developer building high-performance tooling and full-stack applications.
 </p>
@@ -20,7 +19,10 @@
 <p align="center">
   🌐 <a href="https://luwan.io">luwan.io</a> &nbsp;|&nbsp; 💬 Discord: neon.real
 </p>
-
 <p align="center">
   🔗 <a href="https://neeon-website.vercel.app/">My Website</a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rathio12&theme=radical" alt="GitHub Streak" />
 </p>
