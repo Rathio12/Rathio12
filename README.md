@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rathio12&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark" alt="Activity Graph" />
 </p>
