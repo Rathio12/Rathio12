@@ -1,11 +1,4 @@
 <svg width="460" height="160" viewBox="0 0 460 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="reveal">
-      <rect x="0" y="0" width="0" height="30">
-        <animate attributeName="width" from="0" to="220" begin="0.6s" dur="1.4s" fill="freeze" />
-      </rect>
-    </clipPath>
-  </defs>
 
   <!-- window -->
   <rect x="0" y="0" width="460" height="160" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
@@ -21,14 +14,14 @@
   <!-- prompt -->
   <text x="20" y="65" font-family="Menlo, Consolas, monospace" font-size="16" fill="#58a6ff">$ <tspan fill="#c9d1d9">whoami</tspan></text>
 
-  <!-- typed output, revealed via clip-path -->
-  <g clip-path="url(#reveal)" transform="translate(20,80)">
-    <text x="0" y="20" font-family="Menlo, Consolas, monospace" font-size="26" font-weight="bold" fill="#39ff14" letter-spacing="6">R E Y</text>
-  </g>
+  <!-- typed output, fades in after a short delay -->
+  <text x="20" y="105" font-family="Menlo, Consolas, monospace" font-size="26" font-weight="bold" fill="#39ff14" letter-spacing="6" opacity="0">
+    R E Y
+    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.3s" fill="freeze"/>
+  </text>
 
-  <!-- blinking cursor, moves into place after typing -->
-  <rect x="20" y="88" width="12" height="22" fill="#39ff14">
-    <animate attributeName="x" from="20" to="230" begin="0.6s" dur="1.4s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="2s" repeatCount="indefinite"/>
+  <!-- blinking cursor, appears right after the text -->
+  <rect x="145" y="82" width="12" height="26" fill="#39ff14" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;1" keyTimes="0;0.01;0.5;0.51;1" begin="0.9s" dur="1.8s" repeatCount="indefinite"/>
   </rect>
 </svg>
