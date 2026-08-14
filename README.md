@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" alt="Terminal" width="460" />
+<img src="terminal.svg" alt="Terminal" width="460" />
 
 Self-taught developer building high-performance tooling and full-stack applications.
 
