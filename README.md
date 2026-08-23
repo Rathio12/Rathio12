@@ -73,15 +73,11 @@ const developer = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rathio12&theme=react&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathio12&theme=react&hide_border=true&layout=compact&bg_color=0d1117)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
