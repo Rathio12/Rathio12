@@ -77,10 +77,11 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rathio12&theme=react&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rathio12&theme=react&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathio12&theme=react&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathio12&theme=react&hide_border=true&layout=compact&bg_color=0d1117)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -129,16 +130,6 @@ const developer = {
 [![Discord](https://img.shields.io/badge/Discord-neon.real-5865F2?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/neon.real)
 [![luwan.io](https://img.shields.io/badge/luwan.io-Project-FF6B6B?style=for-the-badge&logo=rocket)](https://luwan.io)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contact@example.com)
-
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rathio12&theme=react&hide_border=true)
 
 </div>
 
