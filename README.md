@@ -1,158 +1,295 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;High-Performance+Systems;Web+Infrastructure+Expert" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Rathio12&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%7C%20Senior%20Software%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&color=gradient&gradientColor1=4c1d95&gradientColor2=312e81&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=Software+Engineer;AI%2FML+Practitioner;Full-Stack+Product+Builder;Cloud+%26+Platform+Focused;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Engineering-7c3aed?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Computer%20Science-Student%20%26%20Builder-6366f1?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Rathio12?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-GitHub%20Repos-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hello@rathio.dev"><img src="https://img.shields.io/badge/Email-hello%40rathio.dev-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Rathio12"><img src="https://img.shields.io/badge/GitHub-Rathio12-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rathio12&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Rathio12?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Rathio12?style=for-the-badge&color=6366f1&label=STARS" alt="Stars" />
 </div>
 
 ---
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=Rathio12&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS)](https://github.com/Rathio12)
-  [![GitHub Followers](https://img.shields.io/github/followers/Rathio12?style=for-the-badge&color=00FF88)](https://github.com/Rathio12)
-  [![GitHub Stars](https://img.shields.io/github/stars/Rathio12?style=for-the-badge&color=00FF88)](https://github.com/Rathio12)
+## About
 
-</div>
+I am a software engineer focused on building reliable, scalable, and polished digital products. My work spans full-stack development, AI/ML-enabled systems, cloud-native tooling, and performance-conscious engineering.
 
----
+I care about product quality, maintainable architecture, and shipping solutions that create measurable impact. I enjoy turning complex requirements into clean interfaces, strong APIs, and dependable backends.
 
-## 🚀 About Me
-
-```javascript
-const developer = {
-  name: "Rathio12",
-  title: "Full-Stack Developer & High-Performance Systems Engineer",
-  currently: "🔭 Scaling features at luwan.io",
-  expertise: [
-    "Desktop Utilities",
-    "Game Addons",
-    "Modern Web Infrastructure",
-    "Performance Optimization"
-  ],
-  motto: "Clean code. High performance. Always learning."
-};
-```
-
-- 🔭 **Currently:** Scaling and building out features at [luwan.io](https://luwan.io)
-- 💻 **Specialization:** Full-stack development with focus on performance & scalability
-- 🎯 **Passion:** Building elegant solutions to complex problems
-- 🚀 **Mission:** Creating high-impact tools and applications
-- 🤝 **Open To:** Collaborations, new projects & exciting opportunities
-- 💬 **Connect:** Discord **neon.real**
+### Open To
+- Full-stack software engineering roles
+- AI/ML and applied intelligence projects
+- Platform, tooling, and product engineering work
+- Open-source collaboration and technical partnerships
 
 ---
 
-## 💎 Tech Arsenal
-
-<div align="center">
+## Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cpp" alt="Languages" />
+</div>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" alt="Frontend" />
+</div>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff)
+### Backend & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis" alt="Backend and Databases" />
+</div>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088F0?style=for-the-badge&logo=github-actions&logoColor=fff)
+### Cloud, DevOps & Tooling
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,vscode" alt="Cloud DevOps Tooling" />
+</div>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---:|---|
+| Machine Learning | Advanced | Model training, evaluation, and deployment workflows |
+| LLM Applications | Advanced | Prompting, RAG patterns, workflow automation, and assistants |
+| Data Processing | Advanced | Feature pipelines, ETL, data cleanup, and experimentation |
+| Applied AI Product Engineering | Advanced | Shipping AI features with production constraints in mind |
+| MLOps | Intermediate | Reproducibility, model lifecycle, and deployment hygiene |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>Project One: Intelligent Engineering Platform</strong></summary>
+
+A production-oriented platform built for scalable workflows, strong API boundaries, and maintainable delivery.
+
+| Category | Details |
+|---|---|
+| Stack | Next.js, TypeScript, Node.js, PostgreSQL, Docker |
+| Scale | Multi-module architecture with room for growth |
+| Performance | Server-rendered delivery, caching-aware design, optimized data flow |
+| Security | Role-based access, input validation, environment isolation |
+| Impact | Improved delivery speed and product reliability |
+| Repository | https://github.com/Rathio12 |
+
+Professional focus: product-facing engineering, system clarity, and robust implementation across the stack.
+
+</details>
+
+<details>
+<summary><strong>Project Two: AI Workflow Assistant</strong></summary>
+
+An AI-assisted tool designed to streamline repetitive operations and support decision-making with clean, practical automation.
+
+| Category | Details |
+|---|---|
+| Stack | Python, FastAPI, OpenAI-compatible APIs, Redis |
+| Scale | Service-based design with extensible orchestration |
+| Performance | Low-latency request handling and lightweight execution paths |
+| Security | Scoped secrets, sanitized prompts, controlled outputs |
+| Impact | Reduced manual effort and improved workflow throughput |
+| Repository | https://github.com/Rathio12 |
+
+Professional focus: applied AI, practical automation, and reliable delivery of intelligent features.
+
+</details>
+
+<details>
+<summary><strong>Project Three: Developer Infrastructure Toolkit</strong></summary>
+
+A tooling suite aimed at improving developer velocity, environment consistency, and operational visibility.
+
+| Category | Details |
+|---|---|
+| Stack | Go, Docker, GitHub Actions, Linux |
+| Scale | Small services and reusable operational utilities |
+| Performance | Efficient execution, minimal overhead, automation-first design |
+| Security | Controlled access, safe defaults, predictable execution |
+| Impact | Better productivity, fewer repetitive tasks, stronger engineering workflow |
+| Repository | https://github.com/Rathio12 |
+
+Professional focus: platform thinking, internal tooling, and engineering efficiency.
+
+</details>
+
+---
+
+## Experience
+
+### Software Engineer | Product & Platform Engineering
+**Independent / Open Source** · 2024 — Present
+
+Focused on building full-stack systems, AI-enabled experiences, and engineering workflows that prioritize quality, performance, and maintainability.
+
+- Designed and implemented production-minded web features
+- Built APIs and backend services with maintainability in focus
+- Applied AI/ML capabilities to improve product workflows
+- Optimized front-end and back-end performance across delivery surfaces
+- Collaborated across product, design, and engineering requirements
+
+**Skills:** `Full-Stack Development` `AI/ML` `API Design` `System Design` `Cloud` `DevOps` `Performance`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Engineering Impact | Consistently deliver maintainable, production-ready work |
+| Technical Breadth | Strong across frontend, backend, AI, and infrastructure |
+| Product Mindset | Focus on user value, reliability, and clean execution |
+| Open Source | Active contributor and community-minded builder |
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## Certifications
 
+### AWS
 <div align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+### Oracle
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-Java%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</div>
 
+### NPTEL
+<div align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science%20Course-4f46e5?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NPTEL" />
+</div>
+
+### Cisco
+<div align="center">
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </div>
 
 ---
 
-## 🎯 Key Highlights
+## Coding Profiles
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💼 Professional</h3>
-      <p>Senior-level architecture & system design</p>
-      <p>Production-grade deployments</p>
-      <p>Performance optimization expert</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 Continuous Learning</h3>
-      <p>Self-taught full-stack developer</p>
-      <p>Always exploring new technologies</p>
-      <p>Open-source contributor</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Innovation</h3>
-      <p>Building scalable solutions</p>
-      <p>Desktop utilities & tools</p>
-      <p>Game addons & extensions</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔗 Collaboration</h3>
-      <p>Team player & mentor</p>
-      <p>Open for partnerships</p>
-      <p>Passionate about great code</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathio12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=e5e7eb" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathio12&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=8b5cf6&currStreakLabel=e5e7eb" height="180" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathio12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e5e7eb" height="180" alt="Top Languages" />
+</div>
 
-[![Website](https://img.shields.io/badge/Website-neeon--website.vercel.app-00FF88?style=for-the-badge&logo=vercel)](https://neeon-website.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-neon.real-5865F2?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/neon.real)
-[![luwan.io](https://img.shields.io/badge/luwan.io-Project-FF6B6B?style=for-the-badge&logo=rocket)](https://luwan.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contact@example.com)
+---
 
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rathio12&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rathio12/Rathio12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Advanced system design
+  - AI product engineering
+  - Cloud architecture and deployment
+  - Scalable full-stack architecture
+
+building:
+  - Reliable engineering tools
+  - AI-assisted workflows
+  - Production-ready web applications
+  - Clean developer experiences
+
+exploring:
+  - Distributed systems
+  - LLM workflows and RAG
+  - Platform engineering
+  - Performance optimization
+
+open_to:
+  - Full-stack opportunities
+  - AI/ML collaborations
+  - Open-source partnerships
+  - Product engineering roles
+```
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="mailto:hello@rathio.dev"><img src="https://img.shields.io/badge/Gmail-hello%40rathio.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rathio12"><img src="https://img.shields.io/badge/GitHub-Rathio12-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Rathio12?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Repositories-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Philosophy
+> Building thoughtful software with engineering rigor, product intuition, and modern AI capabilities.
 
-> *"Code is poetry. Performance is purpose. Innovation is inevitable."*
-
-### ⚡ Quick Stats
-- 🏆 Building production-grade applications
-- 📚 Learning & sharing knowledge
-- 🔧 Creating tools that matter
-- 🌍 Open-source enthusiast
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+building;Let's+create+something+amazing+together!" alt="Footer" />
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by Rathio12 | Last updated: 2026**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&gradientColor1=312e81&gradientColor2=4c1d95" width="100%" />
 
 </div>
