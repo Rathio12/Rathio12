@@ -1,158 +1,167 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;High-Performance+Systems;Web+Infrastructure+Expert" alt="Typing Animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,45:1a0b2e,100:7c3aed&text=neeon&fontColor=e9d5ff&fontSize=80&fontAlignY=42&desc=Software%20Developer%20%40%20LuwanIO&descColor=c4b5fd&descSize=22&descAlignY=65&animation=fadeIn" width="100%" alt="neeon" />
+
+<a href="https://github.com/Rathio12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer;Desktop+Utilities+%26+Game+Tools;Performance+Optimization;Clean+code.+High+performance." alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://luwan.io"><img src="https://img.shields.io/badge/luwan.io-VISIT-7c3aed?style=for-the-badge&labelColor=0d0221" alt="luwan.io" /></a>
+<a href="https://discordapp.com/users/neon.real"><img src="https://img.shields.io/badge/Discord-neon.real-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0221" alt="Discord" /></a>
+<a href="https://github.com/Rathio12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-REPOSITORIES-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" alt="Repositories" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-22c55e?style=flat-square&labelColor=0d0221" alt="Status" />
+<img src="https://img.shields.io/badge/Location-Germany-7c3aed?style=flat-square&labelColor=0d0221" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=Rathio12&style=flat-square&color=7c3aed&labelColor=0d0221&label=VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Rathio12?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Rathio12?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" alt="Stars" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7c3aed,100:000000" width="100%" alt="" />
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=Rathio12&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS)](https://github.com/Rathio12)
-  [![GitHub Followers](https://img.shields.io/github/followers/Rathio12?style=for-the-badge&color=00FF88)](https://github.com/Rathio12)
-  [![GitHub Stars](https://img.shields.io/github/stars/Rathio12?style=for-the-badge&color=00FF88)](https://github.com/Rathio12)
+## 〔 ABOUT 〕
 
-</div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const developer = {
-  name: "Rathio12",
-  title: "AI Engineer & Senior Software Developer",
-  currently: "🔭 Scaling features at luwan.io",
-  expertise: [
-    "Desktop Utilities",
-    "Game Addons",
-    "Modern Web Infrastructure",
-    "Performance Optimization"
-  ],
-  motto: "Clean code. High performance. Always learning."
+```js
+const neeon = {
+  role:     "Software Developer @ LuwanIO",
+  location: "Germany",
+  focus:    ["Desktop Utilities", "Game Tools", "Web Infrastructure", "Performance"],
+  motto:    "Clean code. High performance. Always learning."
 };
 ```
 
-- 🔭 **Currently:** Scaling and building out features at [luwan.io](https://luwan.io)
-- 💻 **Specialization:** Full-stack development with focus on performance & scalability
-- 🎯 **Passion:** Building elegant solutions to complex problems
-- 🚀 **Mission:** Creating high-impact tools and applications
-- 🤝 **Open To:** Collaborations, new projects & exciting opportunities
-- 💬 **Connect:** Discord **neon.real**
+- 🔭 **Currently:** building and scaling features at [luwan.io](https://luwan.io)
+- 💻 **Focus:** full-stack work with an eye on performance and scalability
+- 🎮 **Making:** admin tools, blueprint editors, terminals and other tools people actually use
+- 🤝 **Open to:** collaborations and new projects, reach me on Discord: `neon.real`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7c3aed,100:000000" width="100%" alt="" />
 
-## 💎 Tech Arsenal
+## 〔 TECH STACK 〕
 
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088F0?style=for-the-badge&logo=github-actions&logoColor=fff)
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathio12&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 Key Highlights
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>💼 Professional</h3>
-      <p>Senior-level architecture & system design</p>
-      <p>Production-grade deployments</p>
-      <p>Performance optimization expert</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 Continuous Learning</h3>
-      <p>Self-taught full-stack developer</p>
-      <p>Always exploring new technologies</p>
-      <p>Open-source contributor</p>
+    <td width="150"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Rust-7c3aed?style=flat-square&logo=rust&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Go-7c3aed?style=flat-square&logo=go&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/C-7c3aed?style=flat-square&logo=c&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/C%23-7c3aed?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d0221" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Innovation</h3>
-      <p>Building scalable solutions</p>
-      <p>Desktop utilities & tools</p>
-      <p>Game addons & extensions</p>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-a855f7?style=flat-square&logo=react&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Next.js-a855f7?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Vue.js-a855f7?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Tailwind-a855f7?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/HTML5-a855f7?style=flat-square&logo=html5&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/CSS3-a855f7?style=flat-square&logo=css3&logoColor=white&labelColor=0d0221" />
     </td>
-    <td align="center" width="50%">
-      <h3>🔗 Collaboration</h3>
-      <p>Team player & mentor</p>
-      <p>Open for partnerships</p>
-      <p>Passionate about great code</p>
+  </tr>
+  <tr>
+    <td><b>Backend & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-6d28d9?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Express-6d28d9?style=flat-square&logo=express&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/PostgreSQL-6d28d9?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/MongoDB-6d28d9?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d0221" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-5b21b6?style=flat-square&logo=docker&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Git-5b21b6?style=flat-square&logo=git&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/AWS-5b21b6?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-5b21b6?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/VS%20Code-5b21b6?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d0221" />
+      <img src="https://img.shields.io/badge/Linux-5b21b6?style=flat-square&logo=linux&logoColor=white&labelColor=0d0221" />
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7c3aed,100:000000" width="100%" alt="" />
 
-## 🌐 Connect & Collaborate
+## 〔 FEATURED PROJECTS 〕
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/VanillaPlusPlus/VPP-Admin-Tools"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=VanillaPlusPlus&repo=VPP-Admin-Tools&bg_color=0a0612&border_color=2e1065&title_color=a855f7&text_color=d4c5f9&icon_color=7c3aed" alt="VPP-Admin-Tools" /></a><br/>
+      <img src="https://img.shields.io/github/stars/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/forks/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/languages/top/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&color=7c3aed&labelColor=0d0221" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Rathio12/LuwanTerm"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=LuwanTerm&bg_color=0a0612&border_color=2e1065&title_color=a855f7&text_color=d4c5f9&icon_color=7c3aed" alt="LuwanTerm" /></a><br/>
+      <img src="https://img.shields.io/github/stars/Rathio12/LuwanTerm?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/forks/Rathio12/LuwanTerm?style=flat-square&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/languages/top/Rathio12/LuwanTerm?style=flat-square&color=7c3aed&labelColor=0d0221" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Rathio12/SE_BlueprintEditor"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=SE_BlueprintEditor&bg_color=0a0612&border_color=2e1065&title_color=a855f7&text_color=d4c5f9&icon_color=7c3aed" alt="SE_BlueprintEditor" /></a><br/>
+      <img src="https://img.shields.io/github/stars/Rathio12/SE_BlueprintEditor?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/forks/Rathio12/SE_BlueprintEditor?style=flat-square&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/languages/top/Rathio12/SE_BlueprintEditor?style=flat-square&color=7c3aed&labelColor=0d0221" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Rathio12/Ticket-Tool"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=Ticket-Tool&bg_color=0a0612&border_color=2e1065&title_color=a855f7&text_color=d4c5f9&icon_color=7c3aed" alt="Ticket-Tool" /></a><br/>
+      <img src="https://img.shields.io/github/stars/Rathio12/Ticket-Tool?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/forks/Rathio12/Ticket-Tool?style=flat-square&color=7c3aed&labelColor=0d0221" />
+      <img src="https://img.shields.io/github/languages/top/Rathio12/Ticket-Tool?style=flat-square&color=7c3aed&labelColor=0d0221" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:7c3aed,100:000000" width="100%" alt="" />
+
+## 〔 GITHUB STATS 〕
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-neeon--website.vercel.app-00FF88?style=for-the-badge&logo=vercel)](https://neeon-website.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-neon.real-5865F2?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/neon.real)
-[![luwan.io](https://img.shields.io/badge/luwan.io-Project-FF6B6B?style=for-the-badge&logo=rocket)](https://luwan.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contact@example.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rathio12&show_icons=true&bg_color=0a0612&border_color=2e1065&title_color=a855f7&text_color=d4c5f9&icon_color=7c3aed&ring_color=a855f7" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathio12&layout=compact&bg_color=0a0612&border_color=2e1065&title_color=a855f7&text_color=d4c5f9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rathio12&background=0a0612&border=2e1065&stroke=2e1065&ring=a855f7&fire=a855f7&currStreakNum=e9d5ff&currStreakLabel=a855f7&sideNums=e9d5ff&sideLabels=c4b5fd&dates=8b7bb5" alt="GitHub streak" />
 
 </div>
 
----
+<details>
+<summary><b>More stats</b></summary>
+<br/>
 
 <div align="center">
 
-### 💭 Philosophy
-
-> *"Code is poetry. Performance is purpose. Innovation is inevitable."*
-
-### ⚡ Quick Stats
-- 🏆 Building production-grade applications
-- 📚 Learning & sharing knowledge
-- 🔧 Creating tools that matter
-- 🌍 Open-source enthusiast
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+building;Let's+create+something+amazing+together!" alt="Footer" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rathio12&theme=midnight_purple" alt="Profile details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rathio12&theme=midnight_purple" alt="Repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rathio12&theme=midnight_purple" alt="Most commit language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rathio12&theme=midnight_purple" alt="Stats" />
 
 </div>
 
----
+</details>
 
 <div align="center">
 
-**Made with ❤️ by Rathio12 | Last updated: 2026**
+<br/>
+
+<a href="https://discordapp.com/users/neon.real"><img src="https://img.shields.io/badge/Discord-neon.real-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0221" /></a>
+<a href="https://luwan.io"><img src="https://img.shields.io/badge/luwan.io-Project-a855f7?style=for-the-badge&labelColor=0d0221" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,60:1a0b2e,100:000000" width="100%" alt="" />
 
 </div>
