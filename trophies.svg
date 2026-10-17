@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="886" height="150" viewBox="0 0 886 150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+<g transform="translate(0,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#d8b4fe" stroke-opacity="1"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Stars</text>
+<g transform="translate(59.0,58)" fill="#d8b4fe" fill-opacity="1" stroke="#d8b4fe" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">135</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#d8b4fe" letter-spacing="2">RANK S</text>
+</g><g transform="translate(128,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#d8b4fe" stroke-opacity="1"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Top repo</text>
+<g transform="translate(59.0,58)" fill="#d8b4fe" fill-opacity="1" stroke="#d8b4fe" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">131</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#d8b4fe" letter-spacing="2">RANK S</text>
+</g><g transform="translate(256,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#7c3aed" stroke-opacity="0.5"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Commits</text>
+<g transform="translate(59.0,58)" fill="#7c3aed" fill-opacity="0.5" stroke="#7c3aed" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">241</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#7c3aed" letter-spacing="2">RANK B</text>
+</g><g transform="translate(384,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#6d28d9" stroke-opacity="0.4"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Followers</text>
+<g transform="translate(59.0,58)" fill="#6d28d9" fill-opacity="0.35" stroke="#6d28d9" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">2</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#6d28d9" letter-spacing="2">RANK C</text>
+</g><g transform="translate(512,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#6d28d9" stroke-opacity="0.4"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Pull requests</text>
+<g transform="translate(59.0,58)" fill="#6d28d9" fill-opacity="0.35" stroke="#6d28d9" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">2</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#6d28d9" letter-spacing="2">RANK C</text>
+</g><g transform="translate(640,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#6d28d9" stroke-opacity="0.4"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Issues</text>
+<g transform="translate(59.0,58)" fill="#6d28d9" fill-opacity="0.35" stroke="#6d28d9" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">2</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#6d28d9" letter-spacing="2">RANK C</text>
+</g><g transform="translate(768,0)">
+<rect x=".5" y=".5" width="117" height="149" rx="8" fill="#0a0612" stroke="#7c3aed" stroke-opacity="0.5"/>
+<text x="59.0" y="22" text-anchor="middle" font-size="12" font-weight="600" fill="#c084fc">Repos</text>
+<g transform="translate(59.0,58)" fill="#7c3aed" fill-opacity="0.5" stroke="#7c3aed" stroke-width="1.6">
+<path d="M-12 -16 H12 V-5 A12 12 0 0 1 -12 -5 Z"/>
+<path d="M-12 -12 H-19 V-8 A7 7 0 0 0 -12 -2" fill="none"/>
+<path d="M12 -12 H19 V-8 A7 7 0 0 1 12 -2" fill="none"/>
+<rect x="-3" y="7" width="6" height="7" stroke="none"/>
+<rect x="-10" y="14" width="20" height="4" rx="1.5" stroke="none"/>
+</g>
+<text x="59.0" y="104" text-anchor="middle" font-size="22" font-weight="700" fill="#e9d5ff">9</text>
+<text x="59.0" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#7c3aed" letter-spacing="2">RANK B</text>
+</g>
+</svg>

@@ -11,23 +11,13 @@
 <a href="https://luwan.io"><img src="https://img.shields.io/badge/luwan.io-VISIT-7c3aed?style=for-the-badge&labelColor=0d0221" alt="luwan.io" /></a>
 <a href="https://discordapp.com/users/neon.real"><img src="https://img.shields.io/badge/Discord-neon.real-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0221" alt="Discord" /></a>
 <a href="https://github.com/Rathio12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-REPOSITORIES-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" alt="Repositories" /></a>
-<<<<<<< HEAD
-<a href="https://github.com/Rathio12?tab=followers"><img src="https://img.shields.io/github/followers/Rathio12?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=0d0221" alt="Followers" /></a>
-=======
 <a href="https://github.com/Rathio12?tab=followers"><img src="https://img.shields.io/badge/GitHub-FOLLOWERS-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" alt="Followers" /></a>
->>>>>>> 18e0382 (readme change)
 
 <br/>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-22c55e?style=flat-square&labelColor=0d0221" alt="Status" />
 <img src="https://komarev.com/ghpvc/?username=Rathio12&style=flat-square&color=7c3aed&labelColor=0d0221&label=VIEWS" alt="Views" />
-<<<<<<< HEAD
-<img src="https://img.shields.io/github/stars/Rathio12?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" alt="Stars" />
 <img src="https://img.shields.io/badge/Timezone-CET-7c3aed?style=flat-square&labelColor=0d0221" alt="Timezone" />
-<img src="https://img.shields.io/github/last-commit/Rathio12/Rathio12?style=flat-square&label=updated&color=7c3aed&labelColor=0d0221" alt="Updated" />
-=======
-<img src="https://img.shields.io/badge/Timezone-CET-7c3aed?style=flat-square&labelColor=0d0221" alt="Timezone" />
->>>>>>> 18e0382 (readme change)
 
 <br/><br/>
 
@@ -118,53 +108,21 @@ const neeon = {
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/VanillaPlusPlus/VPP-Admin-Tools"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=VanillaPlusPlus&repo=VPP-Admin-Tools&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="VPP-Admin-Tools" /></a><br/>
-<<<<<<< HEAD
-      <sub>DayZ VanillaPlusPlus admin tools</sub><br/>
-      <img src="https://img.shields.io/github/stars/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/forks/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/languages/top/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/last-commit/VanillaPlusPlus/VPP-Admin-Tools?style=flat-square&color=7c3aed&labelColor=0d0221" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Rathio12/LuwanTerm"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=LuwanTerm&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="LuwanTerm" /></a><br/>
-      <sub>Lightweight Windows SSH terminal</sub><br/>
-      <img src="https://img.shields.io/github/stars/Rathio12/LuwanTerm?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/forks/Rathio12/LuwanTerm?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/languages/top/Rathio12/LuwanTerm?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/last-commit/Rathio12/LuwanTerm?style=flat-square&color=7c3aed&labelColor=0d0221" />
-=======
       <sub>DayZ VanillaPlusPlus admin tools</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Rathio12/LuwanTerm"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=LuwanTerm&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="LuwanTerm" /></a><br/>
       <sub>Lightweight Windows SSH terminal</sub>
->>>>>>> 18e0382 (readme change)
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Rathio12/SE_BlueprintEditor"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=SE_BlueprintEditor&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="SE_BlueprintEditor" /></a><br/>
-<<<<<<< HEAD
-      <sub>Space Engineers blueprint viewer and cost calculator</sub><br/>
-      <img src="https://img.shields.io/github/stars/Rathio12/SE_BlueprintEditor?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/forks/Rathio12/SE_BlueprintEditor?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/languages/top/Rathio12/SE_BlueprintEditor?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/last-commit/Rathio12/SE_BlueprintEditor?style=flat-square&color=7c3aed&labelColor=0d0221" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Rathio12/Ticket-Tool"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=Ticket-Tool&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="Ticket-Tool" /></a><br/>
-      <sub>Ticket tool</sub><br/>
-      <img src="https://img.shields.io/github/stars/Rathio12/Ticket-Tool?style=flat-square&logo=github&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/forks/Rathio12/Ticket-Tool?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/languages/top/Rathio12/Ticket-Tool?style=flat-square&color=7c3aed&labelColor=0d0221" />
-      <img src="https://img.shields.io/github/last-commit/Rathio12/Ticket-Tool?style=flat-square&color=7c3aed&labelColor=0d0221" />
-=======
       <sub>Space Engineers blueprint viewer and cost calculator</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Rathio12/Ticket-Tool"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rathio12&repo=Ticket-Tool&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="Ticket-Tool" /></a><br/>
       <sub>Ticket tool</sub>
->>>>>>> 18e0382 (readme change)
     </td>
   </tr>
 </table>
@@ -172,64 +130,6 @@ const neeon = {
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:0d0221,50:3b0764,100:0d0221&text=STATS&fontColor=e9d5ff&fontSize=20&fontAlignY=52&stroke=7c3aed&strokeWidth=1" width="100%" alt="STATS" />
-<<<<<<< HEAD
-
-<br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rathio12&show_icons=true&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&ring_color=c084fc" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathio12&layout=donut&bg_color=0a0612&border_color=4c1d95&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Rathio12&background=0a0612&border=4c1d95&stroke=4c1d95&ring=c084fc&fire=c084fc&currStreakNum=f3e8ff&currStreakLabel=c084fc&sideNums=f3e8ff&sideLabels=c4b5fd&dates=8b7bb5" alt="GitHub streak" />
-
-<br/><br/>
-
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rathio12&theme=midnight_purple" alt="Repos per language" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rathio12&theme=midnight_purple" alt="Most commit language" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rathio12&theme=midnight_purple" alt="Stats" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rathio12&theme=midnight_purple&utcOffset=2" alt="Productive time" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:0d0221,50:3b0764,100:0d0221&text=CONTRIBUTIONS&fontColor=e9d5ff&fontSize=20&fontAlignY=52&stroke=7c3aed&strokeWidth=1" width="100%" alt="CONTRIBUTIONS" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Rathio12/Rathio12/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:0d0221,50:3b0764,100:0d0221&text=CONNECT&fontColor=e9d5ff&fontSize=20&fontAlignY=52&stroke=7c3aed&strokeWidth=1" width="100%" alt="CONNECT" />
-
-<br/>
-
-<a href="https://discordapp.com/users/neon.real"><img src="https://img.shields.io/badge/Discord-neon.real-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0221" /></a>
-<a href="https://luwan.io"><img src="https://img.shields.io/badge/luwan.io-Website-a855f7?style=for-the-badge&labelColor=0d0221" /></a>
-<a href="https://github.com/Rathio12"><img src="https://img.shields.io/badge/GitHub-Rathio12-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" /></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=34&lines=Let%27s+build+something+together.;DMs+open+for+collabs.;%5BERROR%5D+sleep.exe+not+found" alt="Closing line" />
-
-<details>
-<summary><b>Fun facts</b></summary>
-<br/>
-
-<code>[ERROR]</code> sleep.exe not found<br/>
-<code>[WARN]</code> coffee level: low<br/>
-<code>[INFO]</code> bugs: not a bug, a feature<br/>
-<code>[INFO]</code> works on my machine<br/>
-<code>[ OK ]</code> shipping anyway
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:7c3aed,50:1a0b2e,100:000000" width="100%" alt="" />
-=======
->>>>>>> 18e0382 (readme change)
 
 <br/>
 
@@ -256,7 +156,7 @@ const neeon = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Rathio12/Rathio12/images/activity-graph.svg" width="100%" alt="Activity graph" />
+<img src="./activity-graph.svg" width="100%" alt="Activity graph" />
 
 <br/><br/>
 
@@ -264,7 +164,7 @@ const neeon = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Rathio12/Rathio12/images/trophies.svg" width="100%" alt="GitHub trophies" />
+<img src="./trophies.svg" width="100%" alt="GitHub trophies" />
 
 <br/><br/>
 
